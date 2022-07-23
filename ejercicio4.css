@@ -1,0 +1,8 @@
+.galeria{
+    display: flexbox;
+    flex-wrap: wrap;
+}
+.dbz{
+    width: 300px;
+
+}
