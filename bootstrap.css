@@ -1,0 +1,20 @@
+.row div{
+margin: 0.3rem;
+
+}
+.col-sm{
+    background-color: brown;
+    border: blue solid 1px;
+}
+.col-lg{
+    background-color: rgb(42, 165, 97);
+    border: blue solid 1px;
+}
+.col-md{
+    background-color: rgb(204, 37, 140);
+    border: blue solid 1px;
+}
+.col-xl{
+    background-color: rgb(165, 163, 42);
+    border: blue solid 1px;
+}
